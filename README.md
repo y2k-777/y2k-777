@@ -1,78 +1,32 @@
-# 404 Discord Token Logger
+# I don't Like talking about myself but apparently it's good to add these things. 
 
-## Description
-
-**404 Discord Token Logger** is a Python script designed to extract Discord tokens and gather system information from a user, sending the data to a specified Discord webhook.
-
-> **Disclaimer**: This tool is for **educational purposes only**. Unauthorized use or distribution of this tool may violate Discord's terms of service and local cybersecurity laws. Ensure you have permission before using tools like this.
-
----
-
-## How It Works
-
-1. **Token Extraction**:
-    - The script scans the user's local Discord files to locate potential tokens using a regular expression.
-  
-2. **Token Validation**:
-    - Each found token is validated by making a request to Discord's API to check its authenticity.
-
-3. **Information Sent**:
-    - The script sends the tokens along with system information (OS, machine name, processor, etc.) to the specified Discord webhook.
+## 💻 A Little About Me
+- **Location**: Australia 🇦🇺  
+- **What I’m Into**: Programming and exploiting, touching grass. I love social engineering. I use macOS and fedora (bare metal)
+- **Random Shit**: I love a good challenge, enjoy a smoke, and I fucking hate the government. Call me a conspiracy theorist, my pronouns are: Told / You / So
 
 ---
 
-## Setup Instructions
-
-### 1. Create a Discord Webhook
-
-- Set up a webhook in any Discord server where you want to receive the token and system information.
-
-### 2. Update the Webhook URL
-
-- Open the script and replace the following line:
-
-    ```python
-    WEBHOOK = "YOUR DISCORD WEBHOOK HERE"
-    ```
-
-- Replace `"YOUR DISCORD WEBHOOK HERE"` with your actual webhook URL.
-
-### 3. Send the Script
-
-- After making changes, send the script to the target user. When they run the script, it will:
-    - Collect any found Discord tokens.
-    - Validate the tokens using Discord's API.
-    - Send the valid tokens and system info to your Discord webhook.
+## 🚀 What I’m Working On
+- **Void Inject**: A Discord bot packed with moderation tools, built to kick, ban, and even troll users in the most "creative" ways.
+- **404Phish**: My own phishing simulation tool for educational purposes (wink.)
+- **inomet (ARG)**: Alternate reality game, designed to pull players deeper into a web of secret codes and puzzles.
 
 ---
 
-## System Information Sent
-
-The script gathers and sends the following system details:
-
-- Operating System (OS)
-- PC Name
-- OS Version
-- Machine Type
-- Processor Information
+## 🔧 Tech & Tools I Use
+- **Languages**: Python, JavaScript, HTML/CSS, ruby and I'm (sadly) learning C++.
+- **Tools I Use**: Custom tools, BeEF, netcat, byob, namp, SQLMap, SEToolkit, Metasploit, Cloudflare, UTM, and anything else that sparks curiosity.
 
 ---
 
-## Features
-
-- Extracts and validates Discord tokens.
-- Sends valid tokens and system information to a Discord webhook.
-- Includes a notification to `@everyone` in the Discord channel when data is received.
+## 📫 How to Reach Me
+- **Telegram**: [icmad_y2k](https://t.me/icmad_y2k)  
+- **Discord**: icmad_y2k  
 
 ---
 
-## Author
-
-- **Y2K (icmad_y2k)**
-- 404 Discord Token Logger
-
----
-
-## License
-
-This project is for **educational purposes only**. Unauthorized use may result in penalties according to local laws and the terms of service of platforms like Discord.
+## 🌐 Find Me Online
+- [Telegram](https://telegram.com/icmad_y2k)  
+- [Join My Discord](https://discord.gg/VoidInject)  
+- [Check Out the ARG](https://inomet.xyz)
