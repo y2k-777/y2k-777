@@ -10,7 +10,7 @@
 ## 🚀 What I’m Working On
 - **Void Inject**: A Discord bot packed with moderation tools, built to kick, ban, and even troll users in the most "creative" ways.
 - **404Phish**: My own phishing simulation tool for educational purposes (wink.)
-- **inomet (ARG)**: Alternate reality game, designed to pull players deeper into a web of secret codes and puzzles.
+- **inomet (ARG)**: Alternate reality game, cool codes n puzzles and conspiracy shit I like.
 
 ---
 
