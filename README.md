@@ -9,11 +9,11 @@
 
 <div align="center">
  
- I I’m currently working on **Lucifer's Host - Pred DoxIt Site.**
+  I’m currently working on **Lucifer's Host - Pred DoxIt Site.**
  
-II Ask me about **Joining lucifer's host, services for hire, support... or anything [here](y2k777@underworld.dog) or add my Discord: icmad_y2k**
+ Ask me about **Joining lucifer's host, services for hire, support... or anything [here](y2k777@underworld.dog) or add my Discord: icmad_y2k**
 
-III Fun fact **I'll help you take down a pedo, scammer or fuck-wit.**
+Fun fact **I'll help you take down a pedo, scammer or fuck-wit.**
 
  </div>
  
