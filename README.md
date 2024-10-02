@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What+Is+this?;+Why+are+you+here?;" />
 </h1>
 
-<h3 align="center">Pedo hunter, grass toucher, developer and conspiracy-theorist, Owner of Lucifer's host and CSO of [Inomet](https://inomet.xyz)
+<h3 align="center">Pedo hunter, grass toucher, developer. Owner of Lucifer's host and CSO of Inomet
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Lucifer's Host - Pred DoxIt Site.**
  
-💬 Ask me about **Joining lucifer's host, services for hire, support... or anything [here](y2k777@underworld.dog) or add my Discord: icmad_y2k **
+💬 Ask me about **Joining lucifer's host, services for hire, support... or anything [here](y2k777@underworld.dog) or add my Discord: icmad_y2k**
 
-⚡ Fun fact 
+⚡ Fun fact **I'll help you take down a pedo, scammer or fuck-wit.**
 
  </div>
  
