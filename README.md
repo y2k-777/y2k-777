@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Lucifer's Host - Pred DoxIt Site.**
+ I I’m currently working on **Lucifer's Host - Pred DoxIt Site.**
  
-💬 Ask me about **Joining lucifer's host, services for hire, support... or anything [here](y2k777@underworld.dog) or add my Discord: icmad_y2k**
+II Ask me about **Joining lucifer's host, services for hire, support... or anything [here](y2k777@underworld.dog) or add my Discord: icmad_y2k**
 
-⚡ Fun fact **I'll help you take down a pedo, scammer or fuck-wit.**
+III Fun fact **I'll help you take down a pedo, scammer or fuck-wit.**
 
  </div>
  
@@ -31,7 +31,6 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mhtml,css,github,tailwind,git,r" />
@@ -50,7 +49,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=y2k-777&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
