@@ -21,7 +21,7 @@ Fun fact: **I'll help you take down a pedo, scammer or fuck-wit.**
   <a href="mailto:y2k777@underworld.dog">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/y2k-777" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
