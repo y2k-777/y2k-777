@@ -57,7 +57,3 @@ III Fun fact **I'll help you take down a pedo, scammer or fuck-wit.**
 </div>
 
 <br/><br/>
-
-<hr/>
-
-<br/>
